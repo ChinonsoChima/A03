@@ -5,3 +5,4 @@ repository- directory or storage space either on your computer or on Github wher
 clone-making a copy of a repository on Github onto your local computer<br>
 commit-a change to one or more files in a branch; similar to saving a file<br>
 push-moving the commits made from a local branch to a remote repository<br>
+pull-a shortcut of the fetch and merge commands where you collect the changes from a repository and combine it with the local changes
