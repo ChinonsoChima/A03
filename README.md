@@ -13,7 +13,9 @@ fetch-a command that downloads remote code from a repository to your local compu
 remote-describes a repository that users can collaborate on
 
 Git/Github/Webstorm tutorial<br>
-***NOTE: you should have Git and Webstorm installed on your computer as well as have a Github account set up.***
+***NOTE: make sure to download the software from the following links for best results***
+Link to download Git: https://git-scm.com/downloads <br>
+Link to download Webstorm: https://www.jetbrains.com/community/education/#students
 
 I. Connecting Github to Webstorm<br>
     1. In Webstorm, go to File>Settings (or press Ctrl + Alt + S) for system preferences<br>
@@ -36,6 +38,9 @@ IV. Committing Changes on Github<br>
     3. Once that's done, click the "Commit changes" button and your changes will be saved<br>
     
 V. Committing Changes on Webstorm<br>
-    1. In Webstorm, once you've finished making changes, go to VCS>Commit (or press Ctrl + K)<br>
-    2. Click the box next to where it says "Unversioned Files"    
+    1. In Webstorm, once you've finished making changes, go to VCS>Git>Commit File<br>
+    2. Another window should pop up. Click the box next to the name of the file you want to commit changes to<br>
+    3. Add a description about what changes were made to the file<br>
+    4. Click "Commit" and you're good to go<br>
+    
     
